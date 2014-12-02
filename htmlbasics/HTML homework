@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>GA HTML homework</title>
+  </head>
+
+  <body>
+  	<h1>Here is one of the heads.</h1>
+  	<h2>Here's the second head.</h2>
+  	<img src="batman.jpg">
+  	<ul>
+  		<li>Batman</li>
+  		<li><div>Robin</div></li>
+  		<li>Catwoman</li>
+  	</ul>
+  	<p>Ok. here's a paragraph about Batman.  Not much to talk about here, really.</p>
+  	<a href="#img">pic of Batman</a>
+  	<a href="div" target="_blank">Robin, go home!</a>
+  </body>
+
+</html>
